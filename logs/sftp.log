@@ -1,0 +1,331 @@
+Feb  3 17:58:53 10.71.56.0 u100854950 Connection from 10.71.56.0 port 58768 on 82.165.81.181 port 22
+Feb  3 17:58:56 10.71.56.0 u100854950 Accepted password for u100854950 from 10.71.56.0 port 58768 ssh2
+Feb  3 17:58:56 10.71.56.0 u100854950 Starting session: subsystem 'sftp' for u100854950 from 10.71.56.0 port 58768 id 0
+Feb  3 17:58:56 10.71.56.0 u100854950 session opened for local user u100854950 from [10.71.56.0]
+Feb  3 17:59:00 10.71.56.0 u100854950 session closed for local user u100854950 from [10.71.56.0]
+Feb  3 17:59:00 10.71.56.0 u100854950 Connection closed by 10.71.56.0 port 58768
+Feb  3 18:00:02 10.71.56.0 u100854950 Connection from 10.71.56.0 port 44992 on 82.165.81.181 port 22
+Feb  3 18:00:03 10.71.56.0 u100854950 Accepted password for u100854950 from 10.71.56.0 port 44992 ssh2
+Feb  3 18:00:04 10.71.56.0 u100854950 Starting session: subsystem 'sftp' for u100854950 from 10.71.56.0 port 44992 id 0
+Feb  3 18:00:04 10.71.56.0 u100854950 session opened for local user u100854950 from [10.71.56.0]
+Feb  3 18:01:38 10.71.56.0 u100854950 open "/css/style.css" flags READ mode 0666
+Feb  3 18:01:39 10.71.56.0 u100854950 close "/css/style.css" bytes read 11424 written 0
+Feb  3 18:01:39 10.71.56.0 u100854950 [10.71.56.0|get|1|11424|0|0|0|2f6373732f7374796c652e637373|]
+Feb  3 18:01:39 10.71.56.0 u100854950 open "/css/css-reset.css" flags READ mode 0666
+Feb  3 18:01:39 10.71.56.0 u100854950 close "/css/css-reset.css" bytes read 1090 written 0
+Feb  3 18:01:39 10.71.56.0 u100854950 [10.71.56.0|get|0|1090|0|0|0|2f6373732f6373732d72657365742e637373|]
+Feb  3 18:01:39 10.71.56.0 u100854950 open "/css/style.css.map" flags READ mode 0666
+Feb  3 18:01:39 10.71.56.0 u100854950 close "/css/style.css.map" bytes read 5347 written 0
+Feb  3 18:01:39 10.71.56.0 u100854950 [10.71.56.0|get|0|5347|0|0|0|2f6373732f7374796c652e6373732e6d6170|]
+Feb  3 18:01:39 10.71.56.0 u100854950 open "/css/animate.css" flags READ mode 0666
+Feb  3 18:01:40 10.71.56.0 u100854950 close "/css/animate.css" bytes read 72922 written 0
+Feb  3 18:01:40 10.71.56.0 u100854950 [10.71.56.0|get|1|72922|0|0|0|2f6373732f616e696d6174652e637373|]
+Feb  3 18:01:40 10.71.56.0 u100854950 open "/css/animate.min.css" flags READ mode 0666
+Feb  3 18:01:41 10.71.56.0 u100854950 close "/css/animate.min.css" bytes read 53431 written 0
+Feb  3 18:01:41 10.71.56.0 u100854950 [10.71.56.0|get|1|53431|0|0|0|2f6373732f616e696d6174652e6d696e2e637373|]
+Feb  3 18:01:41 10.71.56.0 u100854950 open "/css/bootstrap-theme.css" flags READ mode 0666
+Feb  3 18:01:41 10.71.56.0 u100854950 close "/css/bootstrap-theme.css" bytes read 14936 written 0
+Feb  3 18:01:41 10.71.56.0 u100854950 [10.71.56.0|get|0|14936|0|0|0|2f6373732f626f6f7473747261702d7468656d652e637373|]
+Feb  3 18:01:41 10.71.56.0 u100854950 open "/css/bootstrap-theme.css.map" flags READ mode 0666
+Feb  3 18:01:42 10.71.56.0 u100854950 close "/css/bootstrap-theme.css.map" bytes read 38176 written 0
+Feb  3 18:01:42 10.71.56.0 u100854950 [10.71.56.0|get|1|38176|0|0|0|2f6373732f626f6f7473747261702d7468656d652e6373732e6d6170|]
+Feb  3 18:01:43 10.71.56.0 u100854950 open "/css/bootstrap-theme.min.css" flags READ mode 0666
+Feb  3 18:01:43 10.71.56.0 u100854950 close "/css/bootstrap-theme.min.css" bytes read 13185 written 0
+Feb  3 18:01:43 10.71.56.0 u100854950 [10.71.56.0|get|0|13185|0|0|0|2f6373732f626f6f7473747261702d7468656d652e6d696e2e637373|]
+Feb  3 18:01:43 10.71.56.0 u100854950 open "/css/bootstrap.css" flags READ mode 0666
+Feb  3 18:01:45 10.71.56.0 u100854950 close "/css/bootstrap.css" bytes read 122992 written 0
+Feb  3 18:01:45 10.71.56.0 u100854950 [10.71.56.0|get|2|122992|0|0|0|2f6373732f626f6f7473747261702e637373|]
+Feb  3 18:01:45 10.71.56.0 u100854950 open "/css/bootstrap.css.map" flags READ mode 0666
+Feb  3 18:01:50 10.71.56.0 u100854950 close "/css/bootstrap.css.map" bytes read 245893 written 0
+Feb  3 18:01:50 10.71.56.0 u100854950 [10.71.56.0|get|5|245893|0|0|0|2f6373732f626f6f7473747261702e6373732e6d6170|]
+Feb  3 18:01:51 10.71.56.0 u100854950 open "/css/bootstrap.min.css" flags READ mode 0666
+Feb  3 18:01:51 10.71.56.0 u100854950 close "/css/bootstrap.min.css" bytes read 101595 written 0
+Feb  3 18:01:51 10.71.56.0 u100854950 [10.71.56.0|get|0|101595|0|0|0|2f6373732f626f6f7473747261702e6d696e2e637373|]
+Feb  3 18:01:51 10.71.56.0 u100854950 open "/css/custom.css" flags READ mode 0666
+Feb  3 18:01:52 10.71.56.0 u100854950 close "/css/custom.css" bytes read 9088 written 0
+Feb  3 18:01:52 10.71.56.0 u100854950 [10.71.56.0|get|1|9088|0|0|0|2f6373732f637573746f6d2e637373|]
+Feb  3 18:01:52 10.71.56.0 u100854950 open "/css/font-awesome.css" flags READ mode 0666
+Feb  3 18:01:52 10.71.56.0 u100854950 close "/css/font-awesome.css" bytes read 26651 written 0
+Feb  3 18:01:52 10.71.56.0 u100854950 [10.71.56.0|get|0|26651|0|0|0|2f6373732f666f6e742d617765736f6d652e637373|]
+Feb  3 18:01:52 10.71.56.0 u100854950 open "/css/font-awesome.min.css" flags READ mode 0666
+Feb  3 18:01:53 10.71.56.0 u100854950 close "/css/font-awesome.min.css" bytes read 21984 written 0
+Feb  3 18:01:53 10.71.56.0 u100854950 [10.71.56.0|get|1|21984|0|0|0|2f6373732f666f6e742d617765736f6d652e6d696e2e637373|]
+Feb  3 18:01:54 10.71.56.0 u100854950 open "/fonts/fontawesome-webfont.eot" flags READ mode 0666
+Feb  3 18:01:55 10.71.56.0 u100854950 close "/fonts/fontawesome-webfont.eot" bytes read 56006 written 0
+Feb  3 18:01:55 10.71.56.0 u100854950 [10.71.56.0|get|1|56006|0|0|0|2f666f6e74732f666f6e74617765736f6d652d776562666f6e742e656f74|]
+Feb  3 18:01:55 10.71.56.0 u100854950 open "/fonts/fontawesome-webfont.svg" flags READ mode 0666
+Feb  3 18:01:57 10.71.56.0 u100854950 close "/fonts/fontawesome-webfont.svg" bytes read 287007 written 0
+Feb  3 18:01:57 10.71.56.0 u100854950 [10.71.56.0|get|2|287007|0|0|0|2f666f6e74732f666f6e74617765736f6d652d776562666f6e742e737667|]
+Feb  3 18:01:57 10.71.56.0 u100854950 open "/fonts/fontawesome-webfont.ttf" flags READ mode 0666
+Feb  3 18:01:59 10.71.56.0 u100854950 close "/fonts/fontawesome-webfont.ttf" bytes read 112160 written 0
+Feb  3 18:01:59 10.71.56.0 u100854950 [10.71.56.0|get|2|112160|0|0|0|2f666f6e74732f666f6e74617765736f6d652d776562666f6e742e747466|]
+Feb  3 18:01:59 10.71.56.0 u100854950 open "/fonts/fontawesome-webfont.woff" flags READ mode 0666
+Feb  3 18:02:01 10.71.56.0 u100854950 close "/fonts/fontawesome-webfont.woff" bytes read 65452 written 0
+Feb  3 18:02:01 10.71.56.0 u100854950 [10.71.56.0|get|2|65452|0|0|0|2f666f6e74732f666f6e74617765736f6d652d776562666f6e742e776f6666|]
+Feb  3 18:02:01 10.71.56.0 u100854950 open "/fonts/FontAwesome.otf" flags READ mode 0666
+Feb  3 18:02:01 10.71.56.0 u100854950 close "/fonts/FontAwesome.otf" bytes read 85908 written 0
+Feb  3 18:02:01 10.71.56.0 u100854950 [10.71.56.0|get|0|85908|0|0|0|2f666f6e74732f466f6e74417765736f6d652e6f7466|]
+Feb  3 18:02:01 10.71.56.0 u100854950 open "/fonts/glyphicons-halflings-regular.eot" flags READ mode 0666
+Feb  3 18:02:02 10.71.56.0 u100854950 close "/fonts/glyphicons-halflings-regular.eot" bytes read 20290 written 0
+Feb  3 18:02:02 10.71.56.0 u100854950 [10.71.56.0|get|1|20290|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e656f74|]
+Feb  3 18:02:02 10.71.56.0 u100854950 open "/fonts/glyphicons-halflings-regular.svg" flags READ mode 0666
+Feb  3 18:02:04 10.71.56.0 u100854950 close "/fonts/glyphicons-halflings-regular.svg" bytes read 62850 written 0
+Feb  3 18:02:04 10.71.56.0 u100854950 [10.71.56.0|get|2|62850|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e737667|]
+Feb  3 18:02:04 10.71.56.0 u100854950 open "/fonts/glyphicons-halflings-regular.ttf" flags READ mode 0666
+Feb  3 18:02:06 10.71.56.0 u100854950 close "/fonts/glyphicons-halflings-regular.ttf" bytes read 41236 written 0
+Feb  3 18:02:06 10.71.56.0 u100854950 [10.71.56.0|get|2|41236|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e747466|]
+Feb  3 18:02:06 10.71.56.0 u100854950 open "/fonts/glyphicons-halflings-regular.woff" flags READ mode 0666
+Feb  3 18:02:07 10.71.56.0 u100854950 close "/fonts/glyphicons-halflings-regular.woff" bytes read 23292 written 0
+Feb  3 18:02:07 10.71.56.0 u100854950 [10.71.56.0|get|1|23292|0|0|0|2f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e776f6666|]
+Feb  3 18:02:07 10.71.56.0 u100854950 open "/images/f-logo.png" flags READ mode 0666
+Feb  3 18:02:08 10.71.56.0 u100854950 close "/images/f-logo.png" bytes read 5301 written 0
+Feb  3 18:02:08 10.71.56.0 u100854950 [10.71.56.0|get|1|5301|0|0|0|2f696d616765732f662d6c6f676f2e706e67|]
+Feb  3 18:02:08 10.71.56.0 u100854950 open "/images/game-info-img.png" flags READ mode 0666
+Feb  3 18:02:09 10.71.56.0 u100854950 close "/images/game-info-img.png" bytes read 97397 written 0
+Feb  3 18:02:09 10.71.56.0 u100854950 [10.71.56.0|get|1|97397|0|0|0|2f696d616765732f67616d652d696e666f2d696d672e706e67|]
+Feb  3 18:02:09 10.71.56.0 u100854950 open "/images/art-img-2.jpg" flags READ mode 0666
+Feb  3 18:02:10 10.71.56.0 u100854950 close "/images/art-img-2.jpg" bytes read 51154 written 0
+Feb  3 18:02:10 10.71.56.0 u100854950 [10.71.56.0|get|1|51154|0|0|0|2f696d616765732f6172742d696d672d322e6a7067|]
+Feb  3 18:02:10 10.71.56.0 u100854950 open "/images/art-img-1.jpg" flags READ mode 0666
+Feb  3 18:02:11 10.71.56.0 u100854950 close "/images/art-img-1.jpg" bytes read 40375 written 0
+Feb  3 18:02:11 10.71.56.0 u100854950 [10.71.56.0|get|1|40375|0|0|0|2f696d616765732f6172742d696d672d312e6a7067|]
+Feb  3 18:02:11 10.71.56.0 u100854950 open "/images/play-icon.png" flags READ mode 0666
+Feb  3 18:02:11 10.71.56.0 u100854950 close "/images/play-icon.png" bytes read 2318 written 0
+Feb  3 18:02:11 10.71.56.0 u100854950 [10.71.56.0|get|0|2318|0|0|0|2f696d616765732f706c61792d69636f6e2e706e67|]
+Feb  3 18:02:11 10.71.56.0 u100854950 open "/images/online-server.png" flags READ mode 0666
+Feb  3 18:02:12 10.71.56.0 u100854950 close "/images/online-server.png" bytes read 5823 written 0
+Feb  3 18:02:12 10.71.56.0 u100854950 [10.71.56.0|get|1|5823|0|0|0|2f696d616765732f6f6e6c696e652d7365727665722e706e67|]
+Feb  3 18:02:12 10.71.56.0 u100854950 open "/images/right-title-icon.png" flags READ mode 0666
+Feb  3 18:02:12 10.71.56.0 u100854950 close "/images/right-title-icon.png" bytes read 1772 written 0
+Feb  3 18:02:12 10.71.56.0 u100854950 [10.71.56.0|get|0|1772|0|0|0|2f696d616765732f72696768742d7469746c652d69636f6e2e706e67|]
+Feb  3 18:02:12 10.71.56.0 u100854950 open "/images/right-arrow.jpg" flags READ mode 0666
+Feb  3 18:02:13 10.71.56.0 u100854950 close "/images/right-arrow.jpg" bytes read 85317 written 0
+Feb  3 18:02:13 10.71.56.0 u100854950 [10.71.56.0|get|1|85317|0|0|0|2f696d616765732f72696768742d6172726f772e6a7067|]
+Feb  3 18:02:13 10.71.56.0 u100854950 open "/images/srver-status.png" flags READ mode 0666
+Feb  3 18:02:14 10.71.56.0 u100854950 close "/images/srver-status.png" bytes read 5776 written 0
+Feb  3 18:02:14 10.71.56.0 u100854950 [10.71.56.0|get|1|5776|0|0|0|2f696d616765732f73727665722d7374617475732e706e67|]
+Feb  3 18:02:14 10.71.56.0 u100854950 open "/images/tab-active.png" flags READ mode 0666
+Feb  3 18:02:15 10.71.56.0 u100854950 close "/images/tab-active.png" bytes read 1148 written 0
+Feb  3 18:02:15 10.71.56.0 u100854950 [10.71.56.0|get|1|1148|0|0|0|2f696d616765732f7461622d6163746976652e706e67|]
+Feb  3 18:02:15 10.71.56.0 u100854950 open "/images/gameplay-img-1.jpg" flags READ mode 0666
+Feb  3 18:02:16 10.71.56.0 u100854950 close "/images/gameplay-img-1.jpg" bytes read 38683 written 0
+Feb  3 18:02:16 10.71.56.0 u100854950 [10.71.56.0|get|1|38683|0|0|0|2f696d616765732f67616d65706c61792d696d672d312e6a7067|]
+Feb  3 18:02:17 10.71.56.0 u100854950 open "/images/arrow-right.png" flags READ mode 0666
+Feb  3 18:02:17 10.71.56.0 u100854950 close "/images/arrow-right.png" bytes read 2344 written 0
+Feb  3 18:02:17 10.71.56.0 u100854950 [10.71.56.0|get|0|2344|0|0|0|2f696d616765732f6172726f772d72696768742e706e67|]
+Feb  3 18:02:17 10.71.56.0 u100854950 open "/images/gameplay-img-2.jpg" flags READ mode 0666
+Feb  3 18:02:18 10.71.56.0 u100854950 close "/images/gameplay-img-2.jpg" bytes read 66727 written 0
+Feb  3 18:02:18 10.71.56.0 u100854950 [10.71.56.0|get|1|66727|0|0|0|2f696d616765732f67616d65706c61792d696d672d322e6a7067|]
+Feb  3 18:02:19 10.71.56.0 u100854950 open "/images/arrow-left.png" flags READ mode 0666
+Feb  3 18:02:19 10.71.56.0 u100854950 close "/images/arrow-left.png" bytes read 2366 written 0
+Feb  3 18:02:19 10.71.56.0 u100854950 [10.71.56.0|get|0|2366|0|0|0|2f696d616765732f6172726f772d6c6566742e706e67|]
+Feb  3 18:02:19 10.71.56.0 u100854950 open "/images/left-arrow.jpg" flags READ mode 0666
+Feb  3 18:02:20 10.71.56.0 u100854950 close "/images/left-arrow.jpg" bytes read 51034 written 0
+Feb  3 18:02:20 10.71.56.0 u100854950 [10.71.56.0|get|1|51034|0|0|0|2f696d616765732f6c6566742d6172726f772e6a7067|]
+Feb  3 18:02:20 10.71.56.0 u100854950 open "/images/hr-bg.png" flags READ mode 0666
+Feb  3 18:02:21 10.71.56.0 u100854950 close "/images/hr-bg.png" bytes read 2370 written 0
+Feb  3 18:02:21 10.71.56.0 u100854950 [10.71.56.0|get|1|2370|0|0|0|2f696d616765732f68722d62672e706e67|]
+Feb  3 18:02:21 10.71.56.0 u100854950 open "/images/logo.png" flags READ mode 0666
+Feb  3 18:02:21 10.71.56.0 u100854950 close "/images/logo.png" bytes read 23829 written 0
+Feb  3 18:02:21 10.71.56.0 u100854950 [10.71.56.0|get|0|23829|0|0|0|2f696d616765732f6c6f676f2e706e67|]
+Feb  3 18:02:21 10.71.56.0 u100854950 open "/images/left-title-icon.png" flags READ mode 0666
+Feb  3 18:02:21 10.71.56.0 u100854950 close "/images/left-title-icon.png" bytes read 1771 written 0
+Feb  3 18:02:21 10.71.56.0 u100854950 [10.71.56.0|get|0|1771|0|0|0|2f696d616765732f6c6566742d7469746c652d69636f6e2e706e67|]
+Feb  3 18:02:21 10.71.56.0 u100854950 open "/images/menu-hover.png" flags READ mode 0666
+Feb  3 18:02:22 10.71.56.0 u100854950 close "/images/menu-hover.png" bytes read 1568 written 0
+Feb  3 18:02:22 10.71.56.0 u100854950 [10.71.56.0|get|1|1568|0|0|0|2f696d616765732f6d656e752d686f7665722e706e67|]
+Feb  3 18:02:22 10.71.56.0 u100854950 open "/images/offline-server.png" flags READ mode 0666
+Feb  3 18:02:22 10.71.56.0 u100854950 close "/images/offline-server.png" bytes read 5816 written 0
+Feb  3 18:02:22 10.71.56.0 u100854950 [10.71.56.0|get|0|5816|0|0|0|2f696d616765732f6f66666c696e652d7365727665722e706e67|]
+Feb  3 18:02:22 10.71.56.0 u100854950 open "/images/android-icon-192x192.png" flags READ mode 0666
+Feb  3 18:02:23 10.71.56.0 u100854950 close "/images/android-icon-192x192.png" bytes read 44260 written 0
+Feb  3 18:02:23 10.71.56.0 u100854950 [10.71.56.0|get|1|44260|0|0|0|2f696d616765732f616e64726f69642d69636f6e2d313932783139322e706e67|]
+Feb  3 18:02:23 10.71.56.0 u100854950 open "/images/background.jpg" flags READ mode 0666
+Feb  3 18:02:32 10.71.56.0 u100854950 close "/images/background.jpg" bytes read 1397824 written 0
+Feb  3 18:02:32 10.71.56.0 u100854950 [10.71.56.0|get|9|1397824|0|0|0|2f696d616765732f6261636b67726f756e642e6a7067|]
+Feb  3 18:02:32 10.71.56.0 u100854950 open "/images/bottom-bg.jpg" flags READ mode 0666
+Feb  3 18:02:33 10.71.56.0 u100854950 close "/images/bottom-bg.jpg" bytes read 140920 written 0
+Feb  3 18:02:33 10.71.56.0 u100854950 [10.71.56.0|get|1|140920|0|0|0|2f696d616765732f626f74746f6d2d62672e6a7067|]
+Feb  3 18:02:34 10.71.56.0 u100854950 open "/images/era.png" flags READ mode 0666
+Feb  3 18:02:36 10.71.56.0 u100854950 close "/images/era.png" bytes read 224874 written 0
+Feb  3 18:02:36 10.71.56.0 u100854950 [10.71.56.0|get|2|224874|0|0|0|2f696d616765732f6572612e706e67|]
+Feb  3 18:02:36 10.71.56.0 u100854950 open "/images/f-slider-img.jpg" flags READ mode 0666
+Feb  3 18:02:38 10.71.56.0 u100854950 close "/images/f-slider-img.jpg" bytes read 196369 written 0
+Feb  3 18:02:38 10.71.56.0 u100854950 [10.71.56.0|get|2|196369|0|0|0|2f696d616765732f662d736c696465722d696d672e6a7067|]
+Feb  3 18:02:38 10.71.56.0 u100854950 open "/images/favicon.ico" flags READ mode 0666
+Feb  3 18:02:39 10.71.56.0 u100854950 close "/images/favicon.ico" bytes read 894 written 0
+Feb  3 18:02:39 10.71.56.0 u100854950 [10.71.56.0|get|1|894|0|0|0|2f696d616765732f66617669636f6e2e69636f|]
+Feb  3 18:02:39 10.71.56.0 u100854950 open "/images/game-community-img.png" flags READ mode 0666
+Feb  3 18:02:40 10.71.56.0 u100854950 close "/images/game-community-img.png" bytes read 118524 written 0
+Feb  3 18:02:40 10.71.56.0 u100854950 [10.71.56.0|get|1|118524|0|0|0|2f696d616765732f67616d652d636f6d6d756e6974792d696d672e706e67|]
+Feb  3 18:02:41 10.71.56.0 u100854950 open "/images/game-stats-img.png" flags READ mode 0666
+Feb  3 18:02:42 10.71.56.0 u100854950 close "/images/game-stats-img.png" bytes read 106453 written 0
+Feb  3 18:02:42 10.71.56.0 u100854950 [10.71.56.0|get|1|106453|0|0|0|2f696d616765732f67616d652d73746174732d696d672e706e67|]
+Feb  3 18:02:42 10.71.56.0 u100854950 open "/images/loading.gif" flags READ mode 0666
+Feb  3 18:02:42 10.71.56.0 u100854950 close "/images/loading.gif" bytes read 10121 written 0
+Feb  3 18:02:42 10.71.56.0 u100854950 [10.71.56.0|get|0|10121|0|0|0|2f696d616765732f6c6f6164696e672e676966|]
+Feb  3 18:02:42 10.71.56.0 u100854950 open "/images/media-block-bg.png" flags READ mode 0666
+Feb  3 18:02:51 10.71.56.0 u100854950 close "/images/media-block-bg.png" bytes read 1816518 written 0
+Feb  3 18:02:51 10.71.56.0 u100854950 [10.71.56.0|get|9|1816518|0|0|0|2f696d616765732f6d656469612d626c6f636b2d62672e706e67|]
+Feb  3 18:02:51 10.71.56.0 u100854950 open "/images/slider-img (1).jpg" flags READ mode 0666
+Feb  3 18:02:57 10.71.56.0 u100854950 close "/images/slider-img (1).jpg" bytes read 1004912 written 0
+Feb  3 18:02:57 10.71.56.0 u100854950 [10.71.56.0|get|6|1004912|0|0|0|2f696d616765732f736c696465722d696d67202831292e6a7067|]
+Feb  3 18:02:57 10.71.56.0 u100854950 open "/images/slider-img (2).jpg" flags READ mode 0666
+Feb  3 18:02:59 10.71.56.0 u100854950 close "/images/slider-img (2).jpg" bytes read 224902 written 0
+Feb  3 18:02:59 10.71.56.0 u100854950 [10.71.56.0|get|2|224902|0|0|0|2f696d616765732f736c696465722d696d67202832292e6a7067|]
+Feb  3 18:02:59 10.71.56.0 u100854950 open "/images/slider-img (3).jpg" flags READ mode 0666
+Feb  3 18:03:01 10.71.56.0 u100854950 close "/images/slider-img (3).jpg" bytes read 336929 written 0
+Feb  3 18:03:01 10.71.56.0 u100854950 [10.71.56.0|get|2|336929|0|0|0|2f696d616765732f736c696465722d696d67202833292e6a7067|]
+Feb  3 18:03:01 10.71.56.0 u100854950 open "/images/slider-img (4).jpg" flags READ mode 0666
+Feb  3 18:03:04 10.71.56.0 u100854950 close "/images/slider-img (4).jpg" bytes read 883417 written 0
+Feb  3 18:03:04 10.71.56.0 u100854950 [10.71.56.0|get|3|883417|0|0|0|2f696d616765732f736c696465722d696d67202834292e6a7067|]
+Feb  3 18:03:04 10.71.56.0 u100854950 open "/images/slider-img.jpg" flags READ mode 0666
+Feb  3 18:03:07 10.71.56.0 u100854950 close "/images/slider-img.jpg" bytes read 142850 written 0
+Feb  3 18:03:07 10.71.56.0 u100854950 [10.71.56.0|get|3|142850|0|0|0|2f696d616765732f736c696465722d696d672e6a7067|]
+Feb  3 18:03:07 10.71.56.0 u100854950 open "/images/top-bg.jpg" flags READ mode 0666
+Feb  3 18:03:13 10.71.56.0 u100854950 close "/images/top-bg.jpg" bytes read 1033934 written 0
+Feb  3 18:03:13 10.71.56.0 u100854950 [10.71.56.0|get|6|1033934|0|0|0|2f696d616765732f746f702d62672e6a7067|]
+Feb  3 18:03:14 10.71.56.0 u100854950 open "/js/slider.js" flags READ mode 0666
+Feb  3 18:03:16 10.71.56.0 u100854950 close "/js/slider.js" bytes read 2161 written 0
+Feb  3 18:03:16 10.71.56.0 u100854950 [10.71.56.0|get|2|2161|0|0|0|2f6a732f736c696465722e6a73|]
+Feb  3 18:03:16 10.71.56.0 u100854950 open "/js/jquery-2.1.4.min.js" flags READ mode 0666
+Feb  3 18:03:17 10.71.56.0 u100854950 close "/js/jquery-2.1.4.min.js" bytes read 84380 written 0
+Feb  3 18:03:17 10.71.56.0 u100854950 [10.71.56.0|get|1|84380|0|0|0|2f6a732f6a71756572792d322e312e342e6d696e2e6a73|]
+Feb  3 18:03:17 10.71.56.0 u100854950 open "/js/bootstrap.min.js" flags READ mode 0666
+Feb  3 18:03:18 10.71.56.0 u100854950 close "/js/bootstrap.min.js" bytes read 29097 written 0
+Feb  3 18:03:18 10.71.56.0 u100854950 [10.71.56.0|get|1|29097|0|0|0|2f6a732f626f6f7473747261702e6d696e2e6a73|]
+Feb  3 18:03:18 10.71.56.0 u100854950 open "/js/custom.js" flags READ mode 0666
+Feb  3 18:03:19 10.71.56.0 u100854950 close "/js/custom.js" bytes read 5390 written 0
+Feb  3 18:03:19 10.71.56.0 u100854950 [10.71.56.0|get|1|5390|0|0|0|2f6a732f637573746f6d2e6a73|]
+Feb  3 18:03:19 10.71.56.0 u100854950 open "/js/jquery.downCount.js" flags READ mode 0666
+Feb  3 18:03:20 10.71.56.0 u100854950 close "/js/jquery.downCount.js" bytes read 3581 written 0
+Feb  3 18:03:20 10.71.56.0 u100854950 [10.71.56.0|get|1|3581|0|0|0|2f6a732f6a71756572792e646f776e436f756e742e6a73|]
+Feb  3 18:03:20 10.71.56.0 u100854950 open "/js/jquery.js" flags READ mode 0666
+Feb  3 18:03:22 10.71.56.0 u100854950 close "/js/jquery.js" bytes read 93107 written 0
+Feb  3 18:03:22 10.71.56.0 u100854950 [10.71.56.0|get|2|93107|0|0|0|2f6a732f6a71756572792e6a73|]
+Feb  3 18:03:22 10.71.56.0 u100854950 open "/js/wow.min.js" flags READ mode 0666
+Feb  3 18:03:23 10.71.56.0 u100854950 close "/js/wow.min.js" bytes read 6299 written 0
+Feb  3 18:03:23 10.71.56.0 u100854950 [10.71.56.0|get|1|6299|0|0|0|2f6a732f776f772e6d696e2e6a73|]
+Feb  3 18:03:24 10.71.56.0 u100854950 open "/less/style.less" flags READ mode 0666
+Feb  3 18:03:24 10.71.56.0 u100854950 close "/less/style.less" bytes read 12075 written 0
+Feb  3 18:03:24 10.71.56.0 u100854950 [10.71.56.0|get|0|12075|0|0|0|2f6c6573732f7374796c652e6c657373|]
+Feb  3 18:03:25 10.71.56.0 u100854950 open "/logs/traffic.html/.htaccess" flags READ mode 0666
+Feb  3 18:03:26 10.71.56.0 u100854950 close "/logs/traffic.html/.htaccess" bytes read 23 written 0
+Feb  3 18:03:26 10.71.56.0 u100854950 [10.71.56.0|get|1|23|0|0|0|2f6c6f67732f747261666669632e68746d6c2f2e6874616363657373|]
+Feb  3 18:03:26 10.71.56.0 u100854950 open "/logs/traffic.html/index.html" flags READ mode 0666
+Feb  3 18:03:27 10.71.56.0 u100854950 close "/logs/traffic.html/index.html" bytes read 7098 written 0
+Feb  3 18:03:27 10.71.56.0 u100854950 [10.71.56.0|get|1|7098|0|0|0|2f6c6f67732f747261666669632e68746d6c2f696e6465782e68746d6c|]
+Feb  3 18:03:27 10.71.56.0 u100854950 open "/logs/traffic.html/05.html" flags READ mode 0666
+Feb  3 18:03:28 10.71.56.0 u100854950 close "/logs/traffic.html/05.html" bytes read 10828 written 0
+Feb  3 18:03:28 10.71.56.0 u100854950 [10.71.56.0|get|1|10828|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30352e68746d6c|]
+Feb  3 18:03:28 10.71.56.0 u100854950 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Feb  3 18:03:28 10.71.56.0 u100854950 sent status Permission denied
+Feb  3 18:03:38 10.71.56.0 u100854950 open "/logs/traffic.html/06.html" flags READ mode 0666
+Feb  3 18:03:39 10.71.56.0 u100854950 close "/logs/traffic.html/06.html" bytes read 11596 written 0
+Feb  3 18:03:39 10.71.56.0 u100854950 [10.71.56.0|get|1|11596|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30362e68746d6c|]
+Feb  3 18:03:39 10.71.56.0 u100854950 open "/logs/traffic.html/07.html" flags READ mode 0666
+Feb  3 18:03:39 10.71.56.0 u100854950 close "/logs/traffic.html/07.html" bytes read 11839 written 0
+Feb  3 18:03:39 10.71.56.0 u100854950 [10.71.56.0|get|0|11839|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30372e68746d6c|]
+Feb  3 18:03:39 10.71.56.0 u100854950 open "/logs/traffic.html/08.html" flags READ mode 0666
+Feb  3 18:03:40 10.71.56.0 u100854950 close "/logs/traffic.html/08.html" bytes read 11847 written 0
+Feb  3 18:03:40 10.71.56.0 u100854950 [10.71.56.0|get|1|11847|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30382e68746d6c|]
+Feb  3 18:03:40 10.71.56.0 u100854950 open "/logs/traffic.html/09.html" flags READ mode 0666
+Feb  3 18:03:40 10.71.56.0 u100854950 close "/logs/traffic.html/09.html" bytes read 11432 written 0
+Feb  3 18:03:40 10.71.56.0 u100854950 [10.71.56.0|get|0|11432|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30392e68746d6c|]
+Feb  3 18:03:40 10.71.56.0 u100854950 open "/logs/traffic.html/10.html" flags READ mode 0666
+Feb  3 18:03:41 10.71.56.0 u100854950 close "/logs/traffic.html/10.html" bytes read 11707 written 0
+Feb  3 18:03:41 10.71.56.0 u100854950 [10.71.56.0|get|1|11707|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31302e68746d6c|]
+Feb  3 18:03:41 10.71.56.0 u100854950 open "/logs/traffic.html/11.html" flags READ mode 0666
+Feb  3 18:03:41 10.71.56.0 u100854950 close "/logs/traffic.html/11.html" bytes read 11340 written 0
+Feb  3 18:03:41 10.71.56.0 u100854950 [10.71.56.0|get|0|11340|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31312e68746d6c|]
+Feb  3 18:03:41 10.71.56.0 u100854950 open "/logs/traffic.html/12.html" flags READ mode 0666
+Feb  3 18:03:42 10.71.56.0 u100854950 close "/logs/traffic.html/12.html" bytes read 11695 written 0
+Feb  3 18:03:42 10.71.56.0 u100854950 [10.71.56.0|get|1|11695|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31322e68746d6c|]
+Feb  3 18:03:42 10.71.56.0 u100854950 open "/logs/traffic.html/01.html" flags READ mode 0666
+Feb  3 18:03:42 10.71.56.0 u100854950 close "/logs/traffic.html/01.html" bytes read 11735 written 0
+Feb  3 18:03:42 10.71.56.0 u100854950 [10.71.56.0|get|0|11735|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30312e68746d6c|]
+Feb  3 18:03:42 10.71.56.0 u100854950 open "/logs/traffic.html/02.html" flags READ mode 0666
+Feb  3 18:03:43 10.71.56.0 u100854950 close "/logs/traffic.html/02.html" bytes read 2059 written 0
+Feb  3 18:03:43 10.71.56.0 u100854950 [10.71.56.0|get|1|2059|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30322e68746d6c|]
+Feb  3 18:03:43 10.71.56.0 u100854950 open "/logs/.htaccess" flags READ mode 0666
+Feb  3 18:03:43 10.71.56.0 u100854950 close "/logs/.htaccess" bytes read 268 written 0
+Feb  3 18:03:43 10.71.56.0 u100854950 [10.71.56.0|get|0|268|0|0|0|2f6c6f67732f2e6874616363657373|]
+Feb  3 18:03:43 10.71.56.0 u100854950 open "/logs/info.pl" flags READ mode 0666
+Feb  3 18:03:44 10.71.56.0 u100854950 close "/logs/info.pl" bytes read 4176 written 0
+Feb  3 18:03:44 10.71.56.0 u100854950 [10.71.56.0|get|1|4176|0|0|0|2f6c6f67732f696e666f2e706c|]
+Feb  3 18:03:44 10.71.56.0 u100854950 open "/logs/info.php5" flags READ mode 0666
+Feb  3 18:03:44 10.71.56.0 u100854950 close "/logs/info.php5" bytes read 21 written 0
+Feb  3 18:03:44 10.71.56.0 u100854950 [10.71.56.0|get|0|21|0|0|0|2f6c6f67732f696e666f2e70687035|]
+Feb  3 18:03:44 10.71.56.0 u100854950 open "/logs/info.py" flags READ mode 0666
+Feb  3 18:03:44 10.71.56.0 u100854950 close "/logs/info.py" bytes read 6384 written 0
+Feb  3 18:03:44 10.71.56.0 u100854950 [10.71.56.0|get|0|6384|0|0|0|2f6c6f67732f696e666f2e7079|]
+Feb  3 18:03:44 10.71.56.0 u100854950 open "/logs/traffic.db" flags READ mode 0666
+Feb  3 18:03:45 10.71.56.0 u100854950 close "/logs/traffic.db" bytes read 24576 written 0
+Feb  3 18:03:45 10.71.56.0 u100854950 [10.71.56.0|get|1|24576|0|0|0|2f6c6f67732f747261666669632e6462|]
+Feb  3 18:03:45 10.71.56.0 u100854950 open "/logs/last_traffic" flags READ mode 0666
+Feb  3 18:03:45 10.71.56.0 u100854950 close "/logs/last_traffic" bytes read 0 written 0
+Feb  3 18:03:45 10.71.56.0 u100854950 [10.71.56.0|get|0|0|0|0|0|2f6c6f67732f6c6173745f74726166666963|]
+Feb  3 18:03:45 10.71.56.0 u100854950 open "/logs/sftp.log.02.gz" flags READ mode 0666
+Feb  3 18:03:46 10.71.56.0 u100854950 close "/logs/sftp.log.02.gz" bytes read 24873 written 0
+Feb  3 18:03:46 10.71.56.0 u100854950 [10.71.56.0|get|1|24873|0|0|0|2f6c6f67732f736674702e6c6f672e30322e677a|]
+Feb  3 18:03:46 10.71.56.0 u100854950 open "/logs/sftp.log.03.gz" flags READ mode 0666
+Feb  3 18:03:46 10.71.56.0 u100854950 close "/logs/sftp.log.03.gz" bytes read 397 written 0
+Feb  3 18:03:46 10.71.56.0 u100854950 [10.71.56.0|get|0|397|0|0|0|2f6c6f67732f736674702e6c6f672e30332e677a|]
+Feb  3 18:03:46 10.71.56.0 u100854950 open "/logs/access.log.02.gz" flags READ mode 0666
+Feb  3 18:03:47 10.71.56.0 u100854950 close "/logs/access.log.02.gz" bytes read 11354 written 0
+Feb  3 18:03:47 10.71.56.0 u100854950 [10.71.56.0|get|1|11354|0|0|0|2f6c6f67732f6163636573732e6c6f672e30322e677a|]
+Feb  3 18:03:47 10.71.56.0 u100854950 open "/logs/access.log.04.3.gz" flags READ mode 0666
+Feb  3 18:03:47 10.71.56.0 u100854950 close "/logs/access.log.04.3.gz" bytes read 1908 written 0
+Feb  3 18:03:47 10.71.56.0 u100854950 [10.71.56.0|get|0|1908|0|0|0|2f6c6f67732f6163636573732e6c6f672e30342e332e677a|]
+Feb  3 18:03:47 10.71.56.0 u100854950 open "/logs/access.log.04.6.gz" flags READ mode 0666
+Feb  3 18:03:48 10.71.56.0 u100854950 close "/logs/access.log.04.6.gz" bytes read 1027 written 0
+Feb  3 18:03:48 10.71.56.0 u100854950 [10.71.56.0|get|1|1027|0|0|0|2f6c6f67732f6163636573732e6c6f672e30342e362e677a|]
+Feb  3 18:03:48 10.71.56.0 u100854950 open "/logs/access.log.51.gz" flags READ mode 0666
+Feb  3 18:03:48 10.71.56.0 u100854950 close "/logs/access.log.51.gz" bytes read 7382 written 0
+Feb  3 18:03:48 10.71.56.0 u100854950 [10.71.56.0|get|0|7382|0|0|0|2f6c6f67732f6163636573732e6c6f672e35312e677a|]
+Feb  3 18:03:48 10.71.56.0 u100854950 open "/logs/access.log.53.gz" flags READ mode 0666
+Feb  3 18:03:49 10.71.56.0 u100854950 close "/logs/access.log.53.gz" bytes read 6810 written 0
+Feb  3 18:03:49 10.71.56.0 u100854950 [10.71.56.0|get|0|6810|0|0|0|2f6c6f67732f6163636573732e6c6f672e35332e677a|]
+Feb  3 18:03:49 10.71.56.0 u100854950 open "/logs/sftp.log.04.gz" flags READ mode 0666
+Feb  3 18:03:49 10.71.56.0 u100854950 close "/logs/sftp.log.04.gz" bytes read 400 written 0
+Feb  3 18:03:49 10.71.56.0 u100854950 [10.71.56.0|get|0|400|0|0|0|2f6c6f67732f736674702e6c6f672e30342e677a|]
+Feb  3 18:03:49 10.71.56.0 u100854950 open "/logs/access.log.03.gz" flags READ mode 0666
+Feb  3 18:03:49 10.71.56.0 u100854950 close "/logs/access.log.03.gz" bytes read 10011 written 0
+Feb  3 18:03:49 10.71.56.0 u100854950 [10.71.56.0|get|0|10011|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e677a|]
+Feb  3 18:03:49 10.71.56.0 u100854950 open "/logs/access.log.50.gz" flags READ mode 0666
+Feb  3 18:03:50 10.71.56.0 u100854950 close "/logs/access.log.50.gz" bytes read 8537 written 0
+Feb  3 18:03:50 10.71.56.0 u100854950 [10.71.56.0|get|1|8537|0|0|0|2f6c6f67732f6163636573732e6c6f672e35302e677a|]
+Feb  3 18:03:50 10.71.56.0 u100854950 open "/logs/access.log.01.gz" flags READ mode 0666
+Feb  3 18:03:50 10.71.56.0 u100854950 close "/logs/access.log.01.gz" bytes read 8813 written 0
+Feb  3 18:03:50 10.71.56.0 u100854950 [10.71.56.0|get|0|8813|0|0|0|2f6c6f67732f6163636573732e6c6f672e30312e677a|]
+Feb  3 18:03:50 10.71.56.0 u100854950 open "/logs/access.log.05.1.gz" flags READ mode 0666
+Feb  3 18:03:51 10.71.56.0 u100854950 close "/logs/access.log.05.1.gz" bytes read 1515 written 0
+Feb  3 18:03:51 10.71.56.0 u100854950 [10.71.56.0|get|1|1515|0|0|0|2f6c6f67732f6163636573732e6c6f672e30352e312e677a|]
+Feb  3 18:03:51 10.71.56.0 u100854950 open "/logs/access.log.04.1.gz" flags READ mode 0666
+Feb  3 18:03:51 10.71.56.0 u100854950 close "/logs/access.log.04.1.gz" bytes read 1343 written 0
+Feb  3 18:03:51 10.71.56.0 u100854950 [10.71.56.0|get|0|1343|0|0|0|2f6c6f67732f6163636573732e6c6f672e30342e312e677a|]
+Feb  3 18:03:51 10.71.56.0 u100854950 open "/logs/access.log.04.2.gz" flags READ mode 0666
+Feb  3 18:03:52 10.71.56.0 u100854950 close "/logs/access.log.04.2.gz" bytes read 1209 written 0
+Feb  3 18:03:52 10.71.56.0 u100854950 [10.71.56.0|get|1|1209|0|0|0|2f6c6f67732f6163636573732e6c6f672e30342e322e677a|]
+Feb  3 18:03:52 10.71.56.0 u100854950 open "/logs/access.log.04.7.gz" flags READ mode 0666
+Feb  3 18:03:52 10.71.56.0 u100854950 close "/logs/access.log.04.7.gz" bytes read 2096 written 0
+Feb  3 18:03:52 10.71.56.0 u100854950 [10.71.56.0|get|0|2096|0|0|0|2f6c6f67732f6163636573732e6c6f672e30342e372e677a|]
+Feb  3 18:03:52 10.71.56.0 u100854950 open "/logs/access.log.04.4.gz" flags READ mode 0666
+Feb  3 18:03:52 10.71.56.0 u100854950 close "/logs/access.log.04.4.gz" bytes read 1623 written 0
+Feb  3 18:03:52 10.71.56.0 u100854950 [10.71.56.0|get|0|1623|0|0|0|2f6c6f67732f6163636573732e6c6f672e30342e342e677a|]
+Feb  3 18:03:52 10.71.56.0 u100854950 open "/logs/access.log.04.5.gz" flags READ mode 0666
+Feb  3 18:03:53 10.71.56.0 u100854950 close "/logs/access.log.04.5.gz" bytes read 1704 written 0
+Feb  3 18:03:53 10.71.56.0 u100854950 [10.71.56.0|get|1|1704|0|0|0|2f6c6f67732f6163636573732e6c6f672e30342e352e677a|]
+Feb  3 18:03:53 10.71.56.0 u100854950 open "/logs/access.log.52.gz" flags READ mode 0666
+Feb  3 18:03:53 10.71.56.0 u100854950 close "/logs/access.log.52.gz" bytes read 8692 written 0
+Feb  3 18:03:53 10.71.56.0 u100854950 [10.71.56.0|get|0|8692|0|0|0|2f6c6f67732f6163636573732e6c6f672e35322e677a|]
+Feb  3 18:03:53 10.71.56.0 u100854950 open "/logs/access.log.05.2.gz" flags READ mode 0666
+Feb  3 18:03:54 10.71.56.0 u100854950 close "/logs/access.log.05.2.gz" bytes read 5995 written 0
+Feb  3 18:03:54 10.71.56.0 u100854950 [10.71.56.0|get|1|5995|0|0|0|2f6c6f67732f6163636573732e6c6f672e30352e322e677a|]
+Feb  3 18:03:54 10.71.56.0 u100854950 open "/logs/access.log.05.3" flags READ mode 0666
+Feb  3 18:03:54 10.71.56.0 u100854950 close "/logs/access.log.05.3" bytes read 53505 written 0
+Feb  3 18:03:54 10.71.56.0 u100854950 [10.71.56.0|get|0|53505|0|0|0|2f6c6f67732f6163636573732e6c6f672e30352e33|]
+Feb  3 18:03:54 10.71.56.0 u100854950 open "/logs/access.log.current" flags READ mode 0666
+Feb  3 18:03:55 10.71.56.0 u100854950 close "/logs/access.log.current" bytes read 53505 written 0
+Feb  3 18:03:55 10.71.56.0 u100854950 [10.71.56.0|get|1|53505|0|0|0|2f6c6f67732f6163636573732e6c6f672e63757272656e74|]
+Feb  3 18:03:55 10.71.56.0 u100854950 open "/logs/sftp.log" flags READ mode 0666
